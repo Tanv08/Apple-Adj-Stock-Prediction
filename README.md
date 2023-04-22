@@ -1,1 +1,1 @@
-# Apple-SAdj-Stock-Prediction
+# Apple-Adj-Stock-Prediction
